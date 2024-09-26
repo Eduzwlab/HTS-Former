@@ -7,7 +7,7 @@ The study presents a hybrid two-stage approach to predict molecular subtypes of 
 ## Contents
 - [Pre-requisites and Environmen](#Pre-requisites-and-Environmen)
 - [Data Preparation](#Data-Preparation)
-- [Available Models](#Available Models)
+- [Available Models](#Available-Models)
 - [K-fold Cross Validation](#K-fold-Cross-Validation)
 ## Pre-requisites and Environment
 ### Pre-requisites
