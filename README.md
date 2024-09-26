@@ -59,7 +59,6 @@ CUDA_VISIBLE_DEVICES=0,1 python extract_features_fp.py --data_h5_dir DIR_TO_COOR
 - MAMBAMIL
 - HTS-Former
 
-```
 ## K-fold Cross Validation
 After data preparation, HTS-Former can be trained and tested in a k-fold cross-validation by calling:
 ``` shell
